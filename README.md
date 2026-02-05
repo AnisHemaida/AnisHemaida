@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Star History Chart](https://api.star-history.com/svg?repos=AnisHemaida/projet_git&type=date)](https://www.star-history.com/#AnisHemaida/projet_git&type=date)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnisHemaida&show_icons=true&theme=default)
