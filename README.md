@@ -15,9 +15,8 @@ I specialize in:
 - Transforming raw data into actionable insights using Python, R, and SQL  
 - Developing predictive models and applying machine learning techniques  
 - Designing structured databases and optimizing complex queries  
-- Building interactive dashboards and automated reporting systems  
+- Building interactive dashboards and automated reporting systems
   
----
 
 ## 🛠 Tools
 
