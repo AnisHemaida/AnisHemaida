@@ -8,7 +8,7 @@
 
 <br/>
 
-Hello, I'm Anis — Statistician and Data Scientist junior with experience in financial and transactional data analysis.
+Hello, I'm Anis — Statistician and Data Scientist with experience in financial and transactional data analysis.
 
 I specialize in:
 
