@@ -46,38 +46,18 @@ I specialize in:
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerautomate.svg" height="40" title="Power Automate"/>
 </p>
 
+---
 
 # 📂 Portfolio
 
-Welcome to my data portfolio. Below is a structured overview of my academic and professional data projects.
-
----
-
-## 🧠 Machine Learning & Data Science
+Below is a structured overview of my key data and AI projects.
 
 | Project | Domain | Tools | Description |
 |----------|--------|--------|-------------|
-| 💳 [Credit Card Fraud Detection](https://github.com/AnisHemaida/Examen-UA1-Intelligence-Artificielle-appliquee-au-traitement-des-donnees) | Classification | Python, Scikit-learn, Pandas | Built a supervised machine learning model to detect fraudulent transactions. Focused on class imbalance handling, recall optimization, and ROC-AUC evaluation. |
-| 🏦 Bank Subscription Prediction | Classification | Python, Logistic Regression, Random Forest | Developed a complete ML pipeline including preprocessing, feature engineering, and model comparison using the UCI Bank Marketing dataset. |
-| 🏃 Olympic Athletes Analysis | Clustering | Python, K-Means | Performed data cleaning, exploratory analysis, and clustering to identify patterns in athlete characteristics. |
-
----
-
-## 🗄 SQL & Data Engineering
-
-| Project | Domain | Tools | Description |
-|----------|--------|--------|-------------|
-| 🚦 Ontario 511 Road Data System | Data Engineering | SQL Server, Python, API | Designed and implemented an automated data pipeline from API extraction to SQL Server architecture (tables, procedures, triggers) and KPI reporting. |
-| 🏬 NexaStore Strategic Analysis | Business Analytics | SQL, Data Analysis | Analyzed international e-commerce performance to identify profitable segments and optimization opportunities. |
-
----
-
-## 📊 Data Analysis & Visualization
-
-| Project | Domain | Tools | Description |
-|----------|--------|--------|-------------|
-| ₿ Bitcoin Price Analysis | Time Series | R | Analyzed over 600,000 BTC observations to study distribution, volatility, and hourly trends. |
-| 📊 Forms → MongoDB Automation | Data Pipeline | Python, Power Automate, MongoDB | Built an automated workflow from Microsoft Forms to MongoDB Atlas including transformation and JSON integration. |
+| 🚦 [Gestion Routière Ontario 511](https://github.com/AnisHemaida/Gestion_Routiere_Ontario_511) | Data Engineering | SQL Server, Python, API | Designed and implemented an automated road data management system using Ontario 511 API. Developed full SQL Server architecture (tables, views, procedures, triggers) and automated processing workflows. |
+| 💳 [Fraude par carte de crédit](https://github.com/AnisHemaida/Fraude_par_carte_de_credit) | Machine Learning | Python, Scikit-learn, Pandas | Built a supervised classification model to detect fraudulent transactions. Addressed class imbalance, optimized recall, and evaluated performance using ROC-AUC. |
+| 🏬 [Analyse de Données NexaStore](https://github.com/AnisHemaida/Analyse_de_Donnees_NexaStore) | Business Analytics | SQL, Python | Conducted strategic e-commerce analysis to identify profitability drivers, margin losses, and operational optimization opportunities. |
+| 🤖 [Creation-Chatbot](https://github.com/AnisHemaida/Creation-Chatbot) | Artificial Intelligence | Python, NLP | Developed an intelligent chatbot integrating conversational logic and natural language processing concepts. |
 
 
 ---
