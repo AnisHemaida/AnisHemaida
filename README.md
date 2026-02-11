@@ -23,29 +23,29 @@ I specialize in:
 
 ### 💻 Programming Languages & Databases
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" title="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" title="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB"/>
 </p>
 
 ### 🤖 Data Science & Machine Learning
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
-  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" title="Scikit-learn"/>
+  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="40" title="Plotly"/>
 </p>
 
 ### 📊 BI & Data Visualization
 <p>
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerautomate.svg" height="40"/>
-  
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" title="Power BI"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="40" title="Tableau"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40" title="Microsoft Excel"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerautomate.svg" height="40" title="Power Automate"/>
 </p>
+
 
 
 ## 🧰 Compétences
