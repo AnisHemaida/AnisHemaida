@@ -62,11 +62,16 @@ Below is a structured overview of my key data and AI projects.
 
 ## 🔥 Contribution Streak
 
-## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnisHemaida&theme=default" />
+</p>
+
+<br/>
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnisHemaida&show_icons=true&include_all_commits=true&count_private=true&theme=default" />
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnisHemaida&theme=github-compact" />
 </p>
 
 
