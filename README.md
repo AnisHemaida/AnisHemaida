@@ -8,21 +8,19 @@
 
 <br/>
 
-<h1 align="center">Anis Hemaida</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist%20Junior;Data%20Analyst;Applied%20Statistics%20%7C%20Machine%20Learning;Python%20%7C%20R%20%7C%20SQL&font=Fira%20Code&center=true&width=600&height=45&color=2F81F7&vCenter=true&pause=1000&size=22" />
-</p>
-
 ---
 
-## 👋 À propos
+## 👋 About Me
 
-Je suis **Statisticien** et **Analyste de données / Data Scientist junior** avec plus de **10 ans d’expérience** en analyse de données financières et transactionnelles.  
-Je conçois des solutions analytiques **rigoureuses**, **reproductibles** et orientées **prise de décision**, en combinant statistiques appliquées, data engineering léger et machine learning.
+Hello, I'm Anis — Statistician and Data Scientist junior with experience in financial and transactional data analysis.
 
-📍 **Ottawa, Canada**  
-📧 **anishemaida@gmail.com**  
+I specialize in:
+
+- Transforming raw data into actionable insights using Python, R, and SQL  
+- Developing predictive models and applying machine learning techniques  
+- Designing structured databases and optimizing complex queries  
+- Building interactive dashboards and automated reporting systems  
+- Ensuring data quality, integrity, and statistical rigor  
 
 ---
 
