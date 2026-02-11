@@ -1,13 +1,5 @@
 <img width="2816" height="789" alt="Gemini_Generated_Image_1fr4401fr4401fr4" src="https://github.com/user-attachments/assets/6278c47e-f819-41db-ac8d-d2378a04a258" />
 
-<!-- Banner (optionnel) : remplace l'image par une bannière à toi si tu en as une -->
-<!--
-<p align="center">
-  <a href="https://github.com/AnisHemaida">
-    <img src="TON-LIEN-BANNIERE.png" alt="Anis Hemaida" />
-  </a>
-</p>
--->
 
 <p align="center">
   <!-- Typing SVG (inspiré du style) -->
