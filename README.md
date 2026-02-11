@@ -21,25 +21,14 @@ I specialize in:
 
 ## 🛠 Tools
 
-### 💻 Programming Languages
+### 💻 Programming Languages & Databases
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-</p>
-
-### 🗄 Databases
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-</p>
-
-### 📊 BI & Data Visualization
-<p>
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
 </p>
 
 ### 🤖 Data Science & Machine Learning
@@ -49,12 +38,19 @@ I specialize in:
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
 </p>
 
+### 📊 BI & Data Visualization
+<p>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
+</p>
+
+
 ### ⚙️ Automation & Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-power-automate.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
 </p>
 
 
