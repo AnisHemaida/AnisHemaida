@@ -46,7 +46,8 @@ I specialize in:
 
 <br/>
 
-# 📂 Portfolio
+# ⭐ Featured Projects
+
 
 Below is a structured overview of my key data and AI projects.
 
@@ -56,30 +57,5 @@ Below is a structured overview of my key data and AI projects.
 | 💳 [Fraude par carte de crédit](https://github.com/AnisHemaida/Fraude_par_carte_de_credit) | Machine Learning | Python, Scikit-learn, Pandas | Built a supervised classification model to detect fraudulent transactions. Addressed class imbalance, optimized recall, and evaluated performance. |
 | 🏬 [Analyse de Données NexaStore](https://github.com/AnisHemaida/Analyse_de_Donnees_NexaStore) | Business Analytics | SQL, Python | Conducted strategic e-commerce analysis to identify profitability drivers, margin losses, and operational optimization opportunities. |
 | 🤖 [Creation-Chatbot](https://github.com/AnisHemaida/Creation-Chatbot) | Artificial Intelligence | Python, NLP | Developed an intelligent chatbot integrating conversational logic and natural language processing concepts. |
-
----
-
-<details open>
-  <summary><h2>📌 Pinned projects (quick view)</h2></summary>
-
-  <p align="left">
-    <!-- Remplace repo=... par tes repos exacts -->
-    <a href="https://github.com/AnisHemaida/Examen-UA1-Intelligence-Artificielle-appliquee-au-traitement-des-donnees">
-      <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=AnisHemaida&repo=Examen-UA1-Intelligence-Artificielle-appliquee-au-traitement-des-donnees&theme=default" />
-    </a>
-    <a href="https://github.com/AnisHemaida/Examen_UA3">
-      <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=AnisHemaida&repo=Examen_UA3&theme=default" />
-    </a>
-  </p>
-</details>
-
-<details open>
-  <summary><h2>📊 Stats</h2></summary>
-
-  <p align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnisHemaida&show_icons=true&include_all_commits=true&count_private=true&theme=default" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnisHemaida&layout=compact&langs_count=8&theme=default" />
-  </p>
-</details>
 
 ---
