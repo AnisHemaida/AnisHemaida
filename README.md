@@ -17,11 +17,12 @@ I specialize in:
   
 
 
-<div style="text-align: left;">
+<div style="display: flex; justify-content: flex-end;">
     <a href="https://anishemaida.github.io/AnisPortfolio.github.io/" target="_blank">
         🌐 View My Portfolio
     </a>
 </div>
+
 
 <br/>
 
