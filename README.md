@@ -10,8 +10,8 @@
 -->
 
 <p align="center">
-  <!-- Typing SVG (inspiré du style, contenu 100% Anis) -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist%20junior%20%7C%20Data%20Analyst;Applied%20Statistics%20%26%20Machine%20Learning;Python%20%7C%20R%20%7C%20SQL%20%7C%20Power%20BI;Dashboards%20%26%20Automated%20Reporting;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=720&height=45&color=2F81F7&vCenter=true&pause=1000&size=22" />
+  <!-- Typing SVG (inspiré du style) -->
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist%20%7C%20Data%20Analyst;Applied%20Statistics%20%26%20Machine%20Learning;Python%20%7C%20R%20%7C%20SQL%20%7C%20Power%20BI;Dashboards%20%26%20Automated%20Reporting;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=720&height=45&color=2F81F7&vCenter=true&pause=1000&size=22" />
 </p>
 
 <!-- Social icons section -->
