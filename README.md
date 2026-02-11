@@ -19,7 +19,7 @@ I specialize in:
 
 <li>
     <a href="https://anishemaida.github.io/AnisPortfolio.github.io/">
-        🌐 View My Portfolio
+    🌐 View My Portfolio
     </a>
 </li>
 
