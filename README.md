@@ -58,4 +58,11 @@ Below is a structured overview of my key data and AI projects.
 | 🏬 [Analyse de Données NexaStore](https://github.com/AnisHemaida/Analyse_de_Donnees_NexaStore) | Business Analytics | SQL, Python | Conducted strategic e-commerce analysis to identify profitability drivers, margin losses, and operational optimization opportunities. |
 | 🤖 [Creation-Chatbot](https://github.com/AnisHemaida/Creation-Chatbot) | Artificial Intelligence | Python, NLP | Developed an intelligent chatbot integrating conversational logic and natural language processing concepts. |
 
----
+<br/>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnisHemaida&theme=github-compact" />
+</p>
+
