@@ -17,7 +17,7 @@ I specialize in:
   
 
 
-<div style="text-align: right;">
+<div style="text-align: left;">
     <a href="https://anishemaida.github.io/AnisPortfolio.github.io/" target="_blank">
         🌐 View My Portfolio
     </a>
