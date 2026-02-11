@@ -17,11 +17,12 @@ I specialize in:
   
 <br/>
 
-<li>
-    <a href="https://anishemaida.github.io/AnisPortfolio.github.io/">
-    🌐 View My Portfolio
+<div>
+    <a href="https://anishemaida.github.io/AnisPortfolio.github.io/" target="_blank">
+        🌐 View My Portfolio
     </a>
-</li>
+</div>
+
 
 ## 🛠 Tools
 
