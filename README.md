@@ -55,28 +55,9 @@ Below is a structured overview of my key data and AI projects.
 | Project | Domain | Tools | Description |
 |----------|--------|--------|-------------|
 | 🚦 [Gestion Routière Ontario 511](https://github.com/AnisHemaida/Gestion_Routiere_Ontario_511) | Data Engineering | SQL Server, Python, API | Designed and implemented an automated road data management system using Ontario 511 API. Developed full SQL Server architecture (tables, views, procedures, triggers) and automated processing workflows. |
-| 💳 [Fraude par carte de crédit](https://github.com/AnisHemaida/Fraude_par_carte_de_credit) | Machine Learning | Python, Scikit-learn, Pandas | Built a supervised classification model to detect fraudulent transactions. Addressed class imbalance, optimized recall, and evaluated performance using ROC-AUC. |
+| 💳 [Fraude par carte de crédit](https://github.com/AnisHemaida/Fraude_par_carte_de_credit) | Machine Learning | Python, Scikit-learn, Pandas | Built a supervised classification model to detect fraudulent transactions. Addressed class imbalance, optimized recall, and evaluated performance. |
 | 🏬 [Analyse de Données NexaStore](https://github.com/AnisHemaida/Analyse_de_Donnees_NexaStore) | Business Analytics | SQL, Python | Conducted strategic e-commerce analysis to identify profitability drivers, margin losses, and operational optimization opportunities. |
 | 🤖 [Creation-Chatbot](https://github.com/AnisHemaida/Creation-Chatbot) | Artificial Intelligence | Python, NLP | Developed an intelligent chatbot integrating conversational logic and natural language processing concepts. |
-
-
----
-
-## 💼 Expérience professionnelle
-
-**Statisticien** — Centre National du Registre du Commerce (Direction des Finances) — Alger  
-*Déc. 2010 – Août 2024*  
-- Analyse et interprétation de données financières/transactionnelles  
-- Contrôle qualité (exactitude, intégrité, cohérence)  
-- Détection d’anomalies (facturation) et indicateurs d’aide à la décision  
-- Rapports automatisés et tableaux de bord  
-
----
-
-## 🎓 Formation
-
-- **DEC – Sciences des données appliquées**, La Cité Collégiale (Ottawa) — *Prévu Avril 2026*  
-- **Maîtrise – Planification & Statistique (Statistique appliquée)**, E.N.S.S.E.A (Alger) — *2005–2010*
 
 ---
 
@@ -104,8 +85,3 @@ Below is a structured overview of my key data and AI projects.
 </details>
 
 ---
-
-### ✅ À faire (2 minutes)
-1) Remplace `TON-LINKEDIN` par ton vrai lien LinkedIn  
-2) Si tu n’as pas de portfolio GitHub Pages, supprime l’icône “Portfolio” ou remplace le lien  
-3) Mets les bons liens de repos dans Ontario 511 et Bank Marketing
