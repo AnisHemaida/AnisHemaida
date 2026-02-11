@@ -16,11 +16,11 @@ I specialize in:
 - Building interactive dashboards and automated reporting systems
   
 
-<div style="width:100%; text-align:right;">
-  <a href="https://anishemaida.github.io/AnisPortfolio.github.io/" target="_blank">
+<p align="right">
+  <a href="https://anishemaida.github.io/AnisPortfolio.github.io/">
     🌐 View My Portfolio
   </a>
-</div>
+</p>
 
 <br/>
 
