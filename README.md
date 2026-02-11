@@ -1,3 +1,5 @@
+![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
+
 <!-- Banner (optionnel) : remplace l'image par une bannière à toi si tu en as une -->
 <!--
 <p align="center">
