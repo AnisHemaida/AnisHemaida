@@ -44,7 +44,7 @@ I specialize in:
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerautomate.svg" height="40" title="Power Automate"/>
 </p>
 
----
+<br/>
 
 # 📂 Portfolio
 
