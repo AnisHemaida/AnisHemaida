@@ -1,119 +1,131 @@
-# Anis Hemaida
-Data Scientist junior | Analyste de données  
-Ottawa, Canada  
+<!-- Banner (optionnel) : remplace l'image par une bannière à toi si tu en as une -->
+<!--
+<p align="center">
+  <a href="https://github.com/AnisHemaida">
+    <img src="TON-LIEN-BANNIERE.png" alt="Anis Hemaida" />
+  </a>
+</p>
+-->
+
+<p align="center">
+  <!-- Typing SVG (inspiré du style, contenu 100% Anis) -->
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist%20junior%20%7C%20Data%20Analyst;Applied%20Statistics%20%26%20Machine%20Learning;Python%20%7C%20R%20%7C%20SQL%20%7C%20Power%20BI;Dashboards%20%26%20Automated%20Reporting;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=720&height=45&color=2F81F7&vCenter=true&pause=1000&size=22" />
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:anishemaida@gmail.com"><img width="32px" alt="Email" title="Email" src="https://i.imgur.com/1Xqz5wN.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- LinkedIn (remplace TON-LINKEDIN) -->
+  <a href="https://www.linkedin.com/in/TON-LINKEDIN/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- Portfolio (GitHub Pages) : remplace si tu as ton site -->
+  <a href="https://anishemaida.github.io/"><img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/8mLQWkB.png"/></a>
+</p>
+
+<br/>
+
+<!-- Social badges section -->
+<p align="center">
+  <a href="https://github.com/AnisHemaida?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub"
+      src="https://custom-icon-badges.demolab.com/github/stars/AnisHemaida?color=0f9d58&style=for-the-badge&labelColor=0b8043&logo=star"/>
+  </a>
+  <a href="https://github.com/AnisHemaida?tab=followers">
+    <img alt="followers" title="Follow me on GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/AnisHemaida?color=1a73e8&labelColor=174ea6&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <img alt="views" title="GitHub profile views"
+    src="https://komarev.com/ghpvc/?username=AnisHemaida&style=for-the-badge&color=blue" />
+</p>
 
 ---
 
-## Profil
+## 👋 À propos
 
-Statisticien et analyste de données avec plus de 10 ans d’expérience en analyse et interprétation de données financières et transactionnelles.
+Je suis **Statisticien** et **Analyste de données / Data Scientist junior** avec plus de **10 ans d’expérience** en analyse de données financières et transactionnelles.  
+Je conçois des solutions analytiques **rigoureuses**, **reproductibles** et orientées **prise de décision**, en combinant statistiques appliquées, data engineering léger et machine learning.
 
-Spécialisé en :
-- Statistiques appliquées
-- Modélisation prédictive
-- Machine Learning
-- Conception de tableaux de bord dynamiques
-- Automatisation des rapports
-
-Formé en Planification et Statistique Appliquée ainsi qu’en Sciences des données appliquées, combinant rigueur statistique et outils modernes d’analyse.
+📍 **Ottawa, Canada**  
+📧 **anishemaida@gmail.com**  
 
 ---
 
-## Compétences techniques
+## 🧰 Compétences
 
-**Langages :**  
-Python, R, SQL  
-
-**Bases de données :**  
-SQL Server (SSMS), MySQL, MongoDB Atlas  
-
-**Analyse & Visualisation :**  
-Power BI, Tableau, Excel avancé  
-
-**Data Science & ML :**  
-Pandas, NumPy, Scikit-learn  
-Feature Engineering  
-Validation croisée  
-Optimisation de modèles  
-
-**Outils & Automatisation :**  
-Git, GitHub  
-Power Automate  
-Power Query  
-Suite Microsoft Office  
+**Langages** : Python, R, SQL  
+**Bases de données** : SQL Server (SSMS), MySQL, MongoDB Atlas  
+**BI & Visualisation** : Power BI, Tableau, Excel avancé  
+**Data Science** : Pandas, NumPy, Scikit-learn, feature engineering, validation & métriques  
+**Automatisation** : Git/GitHub, Power Automate, Power Query, Microsoft 365  
 
 ---
 
-## Expérience professionnelle
+## ⭐ Projets vedettes
 
-### Statisticien  
-Centre National du Registre du Commerce – Direction des Finances  
-Alger, Algérie  
-Décembre 2010 – Août 2024  
+### 💳 Détection de fraude par carte de crédit (Machine Learning)
+- Classification supervisée, gestion du déséquilibre, optimisation du *Recall*, évaluation ROC-AUC  
+🔗 https://github.com/AnisHemaida/Examen-UA1-Intelligence-Artificielle-appliquee-au-traitement-des-donnees
 
-- Analyse et interprétation de données financières et transactionnelles
-- Contrôle de la qualité des données (exactitude, intégrité, cohérence)
-- Détection d’anomalies dans les systèmes de facturation
-- Conception et automatisation de rapports statistiques
-- Collaboration inter-équipes pour assurer la fiabilité des données
+### 📊 Projet UA3 — Analyse de données
+- Analyse exploratoire, nettoyage, modélisation et interprétation des résultats  
+🔗 https://github.com/AnisHemaida/Examen_UA3
 
----
+### 🚦 Ontario 511 — Système d’analyse routière (SQL Server & Python)
+- Pipeline automatisé API → SQL Server (procédures, triggers, KPI) + scripts Python  
+🔗 (ajoute le lien GitHub du repo)
 
-## Projets en Data Science & Analyse
-
-### Prédiction de la souscription bancaire – Machine Learning (Python)
-- Développement d’un pipeline complet (préparation, entraînement, évaluation)
-- Modèles : Régression Logistique, KNN, Random Forest
-- Optimisation et structuration du pipeline pour réutilisation
-
-### Système de gestion routière Ontario 511 – SQL Server & Python
-- Extraction et traitement automatisé des données API Ontario 511
-- Conception complète base SQL Server (tables, vues, procédures, triggers)
-- Automatisation des traitements via Python
-
-### Analyse exploratoire du prix du Bitcoin – R
-- Analyse de plus de 600 000 observations
-- Étude de la volatilité et des distributions
-- Visualisations statistiques avancées
-
-### Automatisation Forms → MongoDB Atlas
-- Pipeline automatisé (Microsoft Forms → OneDrive → Google Drive → MongoDB)
-- Scripts Python de transformation et intégration JSON
-
-### Analyse des athlètes olympiques – Python
-- Nettoyage et exploration de données
-- Clustering K-Means
-
-### Analyse stratégique NexaStore – Data Analytics
-- Analyse des marges, remises et logistique e-commerce
-- Identification de segments rentables
-- Synthèse exécutive orientée décision
+### 🏦 Prédiction de souscription bancaire (Bank Marketing – UCI)
+- Pipeline complet + modèles (LogReg, KNN, Random Forest)  
+🔗 (ajoute le lien GitHub du repo)
 
 ---
 
-## Formation
+## 💼 Expérience professionnelle
 
-Diplôme d’études collégiales – Sciences des données appliquées  
-La Cité Collégiale, Ottawa  
-Prévision : Avril 2026  
-
-Maîtrise en Planification et Statistique (Statistique Appliquée)  
-E.N.S.S.E.A, Alger  
-2005 – 2010  
-
----
-
-## Compétences transversales
-
-- Esprit analytique et rigueur
-- Sens du détail
-- Communication claire des résultats
-- Capacité d’adaptation
-- Travail en équipe et autonomie
+**Statisticien** — Centre National du Registre du Commerce (Direction des Finances) — Alger  
+*Déc. 2010 – Août 2024*  
+- Analyse et interprétation de données financières/transactionnelles  
+- Contrôle qualité (exactitude, intégrité, cohérence)  
+- Détection d’anomalies (facturation) et indicateurs d’aide à la décision  
+- Rapports automatisés et tableaux de bord  
 
 ---
 
-## Contact
+## 🎓 Formation
 
-Email : anishemaida@gmail.com  
-LinkedIn : (ajouter lien)  
+- **DEC – Sciences des données appliquées**, La Cité Collégiale (Ottawa) — *Prévu Avril 2026*  
+- **Maîtrise – Planification & Statistique (Statistique appliquée)**, E.N.S.S.E.A (Alger) — *2005–2010*
+
+---
+
+<details open>
+  <summary><h2>📌 Pinned projects (quick view)</h2></summary>
+
+  <p align="left">
+    <!-- Remplace repo=... par tes repos exacts -->
+    <a href="https://github.com/AnisHemaida/Examen-UA1-Intelligence-Artificielle-appliquee-au-traitement-des-donnees">
+      <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=AnisHemaida&repo=Examen-UA1-Intelligence-Artificielle-appliquee-au-traitement-des-donnees&theme=default" />
+    </a>
+    <a href="https://github.com/AnisHemaida/Examen_UA3">
+      <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=AnisHemaida&repo=Examen_UA3&theme=default" />
+    </a>
+  </p>
+</details>
+
+<details open>
+  <summary><h2>📊 Stats</h2></summary>
+
+  <p align="center">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnisHemaida&show_icons=true&include_all_commits=true&count_private=true&theme=default" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnisHemaida&layout=compact&langs_count=8&theme=default" />
+  </p>
+</details>
+
+---
+
+### ✅ À faire (2 minutes)
+1) Remplace `TON-LINKEDIN` par ton vrai lien LinkedIn  
+2) Si tu n’as pas de portfolio GitHub Pages, supprime l’icône “Portfolio” ou remplace le lien  
+3) Mets les bons liens de repos dans Ontario 511 et Bank Marketing
