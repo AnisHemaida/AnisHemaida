@@ -1,4 +1,4 @@
-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
+<img width="2816" height="789" alt="Gemini_Generated_Image_1fr4401fr4401fr4" src="https://github.com/user-attachments/assets/6278c47e-f819-41db-ac8d-d2378a04a258" />
 
 <!-- Banner (optionnel) : remplace l'image par une bannière à toi si tu en as une -->
 <!--
