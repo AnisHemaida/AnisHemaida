@@ -8,6 +8,12 @@
 
 <br/>
 
+<h1 align="center">Anis Hemaida</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist%20Junior;Data%20Analyst;Applied%20Statistics%20%7C%20Machine%20Learning;Python%20%7C%20R%20%7C%20SQL&font=Fira%20Code&center=true&width=600&height=45&color=2F81F7&vCenter=true&pause=1000&size=22" />
+</p>
+
 ---
 
 ## 👋 À propos
