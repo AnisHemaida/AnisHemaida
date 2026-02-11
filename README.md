@@ -8,20 +8,6 @@
 
 <br/>
 
-<!-- Social badges section -->
-<p align="center">
-  <a href="https://github.com/AnisHemaida?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/stars/AnisHemaida?color=0f9d58&style=for-the-badge&labelColor=0b8043&logo=star"/>
-  </a>
-  <a href="https://github.com/AnisHemaida?tab=followers">
-    <img alt="followers" title="Follow me on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/AnisHemaida?color=1a73e8&labelColor=174ea6&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <img alt="views" title="GitHub profile views"
-    src="https://komarev.com/ghpvc/?username=AnisHemaida&style=for-the-badge&color=blue" />
-</p>
-
 ---
 
 ## 👋 À propos
