@@ -47,34 +47,38 @@ I specialize in:
 </p>
 
 
+# 📂 Portfolio
 
-## 🧰 Compétences
-
-**Langages** : Python, R, SQL  
-**Bases de données** : SQL Server (SSMS), MySQL, MongoDB Atlas  
-**BI & Visualisation** : Power BI, Tableau, Excel avancé  
-**Data Science** : Pandas, NumPy, Scikit-learn, feature engineering, validation & métriques  
-**Automatisation** : Git/GitHub, Power Automate, Power Query, Microsoft 365  
+Welcome to my data portfolio. Below is a structured overview of my academic and professional data projects.
 
 ---
 
-## ⭐ Projets vedettes
+## 🧠 Machine Learning & Data Science
 
-### 💳 Détection de fraude par carte de crédit (Machine Learning)
-- Classification supervisée, gestion du déséquilibre, optimisation du *Recall*, évaluation ROC-AUC  
-🔗 https://github.com/AnisHemaida/Examen-UA1-Intelligence-Artificielle-appliquee-au-traitement-des-donnees
+| Project | Domain | Tools | Description |
+|----------|--------|--------|-------------|
+| 💳 [Credit Card Fraud Detection](https://github.com/AnisHemaida/Examen-UA1-Intelligence-Artificielle-appliquee-au-traitement-des-donnees) | Classification | Python, Scikit-learn, Pandas | Built a supervised machine learning model to detect fraudulent transactions. Focused on class imbalance handling, recall optimization, and ROC-AUC evaluation. |
+| 🏦 Bank Subscription Prediction | Classification | Python, Logistic Regression, Random Forest | Developed a complete ML pipeline including preprocessing, feature engineering, and model comparison using the UCI Bank Marketing dataset. |
+| 🏃 Olympic Athletes Analysis | Clustering | Python, K-Means | Performed data cleaning, exploratory analysis, and clustering to identify patterns in athlete characteristics. |
 
-### 📊 Projet UA3 — Analyse de données
-- Analyse exploratoire, nettoyage, modélisation et interprétation des résultats  
-🔗 https://github.com/AnisHemaida/Examen_UA3
+---
 
-### 🚦 Ontario 511 — Système d’analyse routière (SQL Server & Python)
-- Pipeline automatisé API → SQL Server (procédures, triggers, KPI) + scripts Python  
-🔗 (ajoute le lien GitHub du repo)
+## 🗄 SQL & Data Engineering
 
-### 🏦 Prédiction de souscription bancaire (Bank Marketing – UCI)
-- Pipeline complet + modèles (LogReg, KNN, Random Forest)  
-🔗 (ajoute le lien GitHub du repo)
+| Project | Domain | Tools | Description |
+|----------|--------|--------|-------------|
+| 🚦 Ontario 511 Road Data System | Data Engineering | SQL Server, Python, API | Designed and implemented an automated data pipeline from API extraction to SQL Server architecture (tables, procedures, triggers) and KPI reporting. |
+| 🏬 NexaStore Strategic Analysis | Business Analytics | SQL, Data Analysis | Analyzed international e-commerce performance to identify profitable segments and optimization opportunities. |
+
+---
+
+## 📊 Data Analysis & Visualization
+
+| Project | Domain | Tools | Description |
+|----------|--------|--------|-------------|
+| ₿ Bitcoin Price Analysis | Time Series | R | Analyzed over 600,000 BTC observations to study distribution, volatility, and hourly trends. |
+| 📊 Forms → MongoDB Automation | Data Pipeline | Python, Power Automate, MongoDB | Built an automated workflow from Microsoft Forms to MongoDB Atlas including transformation and JSON integration. |
+
 
 ---
 
