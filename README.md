@@ -11,8 +11,8 @@
   <!-- Email -->
   <a href="mailto:anishemaida@gmail.com"><img width="32px" alt="Email" title="Email" src="https://i.imgur.com/1Xqz5wN.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <!-- LinkedIn (remplace TON-LINKEDIN) -->
-  <a href="https://www.linkedin.com/in/TON-LINKEDIN/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <!-- LinkedIn -->
+  <a href="[https://www.linkedin.com/in/TON-LINKEDIN/](https://www.linkedin.com/in/anis-hemaida/)"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Portfolio (GitHub Pages) : remplace si tu as ton site -->
   <a href="https://anishemaida.github.io/"><img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/8mLQWkB.png"/></a>
