@@ -43,7 +43,7 @@ I specialize in:
   <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
   <img src="https://img.icons8.com/color/48/tableau-software.png" height="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/flow.png" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerautomate.svg" height="40"/>
   
 </p>
 
